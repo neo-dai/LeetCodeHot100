@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/dj/code/hot100/lc11'
+relocations:     []
+...
